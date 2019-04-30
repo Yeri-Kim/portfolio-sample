@@ -1,0 +1,28 @@
+body, html {
+  padding: 0;
+  margin: 0;
+  font-family: 'Lora', serif;
+}
+
+.top-img {
+  height: 320px;
+  background: url("https://static1.squarespace.com/static/57768e6ad1758e1a32cab7f6/577693716b8f5b89f05ba28e/5776fd7b3e00be9cc0d543cd/1467417973315/kathryn-mcclintock.jpg") no-repeat center 40%;
+  background-size: 100%;
+}
+
+.contents {
+  max-width: 1050px;
+  margin: 30px auto 0;
+  padding: 60px 20px 60px;
+}
+
+p.summary {
+  font-size: 47px;
+}
+
+.detail p {
+  color: #737373;
+  margin-bottom: 20px;
+  font-size: 28px;
+  line-height: 1.4;
+}
